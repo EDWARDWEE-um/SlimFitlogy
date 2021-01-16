@@ -1,8 +1,9 @@
 # SlimFitlogy
-Health and Fitness app! 
+##Health and Fitness app! 
 
-In collaboration with :
+###In collaboration with :
 
-Chow Khai Shian
-John Law
-Ng Phoon Ken
+<p>Chow Khai Shian </p> 
+<p>John Law  </p> 
+<p>Ng Phoon Ken</p> 
+
