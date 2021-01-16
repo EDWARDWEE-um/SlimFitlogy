@@ -7,3 +7,7 @@
 <p>2) John Law  </p> 
 <p>3) Ng Phoon Ken</p> 
 
+### Tech Stack At The Moment:
+<p>1) React.js / React Dom / React Native </p> 
+<p>2) Django Rest Framework  </p> 
+<p>3) PostgreSQL / MySQL / Firebase </p> 
