@@ -8,6 +8,8 @@ import AlertTemplate from 'react-alert-template-basic';
 import Header from './layout/Header';
 import Dashboard from './leads/Dashboard';
 import Alerts from './layout/Alerts';
+import Register from './accounts/Register';
+import Login from './accounts/Login';
 
 import { Provider } from 'react-redux';
 import store from '../store';
@@ -29,7 +31,9 @@ class App extends Component{
                     <Alerts />
                     <div className="container">
                         <Switch>
-                            <Router exact path="/" component={Dashboard}/>
+                            <Route exact path="/" component={Dashboard}/>
+                            <Route exact path="/register" component={Register}/>
+                            <Route exact path="/login" component={Login}/>
                         </Switch>
                     </div>
                 </Fragment>
