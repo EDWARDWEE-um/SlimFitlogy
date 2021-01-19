@@ -1,3 +1,3 @@
-web: gunicorn leadmanager.wsgi:application 
+web: gunicorn leadmanager.wsgi --log-file -
 python manage.py collectstatic --noinput
 manage.py migrate
