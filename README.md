@@ -6,6 +6,7 @@
 <p>1) Chow Khai Shian </p> 
 <p>2) John Law  </p> 
 <p>3) Ng Phoon Ken</p> 
+<p>3) Nicholas Low</p> 
 
 ### Tech Stack At The Moment:
 <p>1) React.js / React Dom / React Native </p> 
