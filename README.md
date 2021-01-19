@@ -12,3 +12,6 @@
 <p>1) React.js / React Dom / React Native </p> 
 <p>2) Django Rest Framework  </p> 
 <p>3) PostgreSQL / MySQL / Firebase </p> 
+
+<p> First Phase </p>
+<p> Register, Login, Logout </p>
