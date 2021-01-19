@@ -1,3 +1,4 @@
 web: gunicorn leadmanager.wsgi --log-file -
+web: node index.js
 python manage.py collectstatic --noinput
 manage.py migrate
