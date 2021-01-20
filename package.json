@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start":"node ./leadmanager/frontend/src/index.js",
+    "start": "node ./leadmanager/frontend/src/index.js",
     "dev": "webpack --watch --mode development --entry ./leadmanager/frontend/src/index.js --output-path ./leadmanager/frontend/static/frontend/",
     "build": "webpack --mode production --entry ./leadmanager/frontend/src/index.js --output-path ./leadmanager/frontend/static/frontend/"
   },
@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/EDWARDWEE-um/Lead-Manager-App#readme",
   "devDependencies": {
+    "@babel/cli": "^7.12.10",
     "@babel/core": "^7.12.10",
     "@babel/preset-env": "^7.12.11",
     "@babel/preset-react": "^7.12.10",
