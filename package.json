@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "webpack --mode development --entry ./leadmanager/frontend/src/index.js --output-path ./leadmanager/frontend/static/frontend/",
-    "build": "webpack --mode production --entry ./leadmanager/frontend/src/index.js --output-path ./leadmanager/frontend/static/frontend/"
+    "start": "webpack --mode production --entry ./leadmanager/frontend/src/index.js --output-path ./leadmanager/frontend/static/frontend/"
   },
   "repository": {
     "type": "git",
